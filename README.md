@@ -12,6 +12,12 @@
   once the source code is cloned to your machine run the command npm install to install the required node packages. Node is also required to run the application. I used node 20 for development
   ## Usage
   To use this project you must have node installed on your computer. You can follow the video instructions for how to get it up and running. 
+
+  ### Video Instructions
+
+  - https://drive.google.com/file/d/1B3eVnraOeo2cMrbE3cpEo-RHNrizm4Zl/view
+  
+
   ## Contribution
   For this project I worked with my classmate Will Schickler
   ## Tests
