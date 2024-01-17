@@ -30,6 +30,8 @@ inquirer.prompt([
 ]).then(function (answers) {
     let shape;
     let text = answers.text;
+    let color = answers.color;
+    if (color === "") color = "red";
     switch (answers.shape) {
         case "circle":
             shape = new Circle(answers.color);
